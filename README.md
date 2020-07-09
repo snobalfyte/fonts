@@ -20,7 +20,7 @@ For help doing this, see <https://github.com/majodev/google-webfonts-helper>
 
 ## Download All Google Fonts
 
-You can download all Google Fonts in a simple ZIP snapshot (over 300MB) from <https://github.com/google/fonts/archive/master.zip>
+You can download all Google Fonts in a simple ZIP snapshot (397MB) from <https://github.com/google/fonts/archive/master.zip>
 
 #### Sync With Git
 
